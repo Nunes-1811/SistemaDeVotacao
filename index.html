@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema De Votação</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <header><h1>Sistema de Votação de Personagens</h1></header>
+    <section>
+        <p>Cada aluno poderá votar escolhendo um personagem da lista.</p>
+        <form id="form-votacao">
+            <label for="personagem">Escolha um personagem:</label>
+            <select id="personagem">
+                <option>Selecione...</option>
+                <option value="Hollow Knight">Hollow Knight</option>
+                <option value="Steve">Steve</option>
+                <option value="Xicrinho">Xicrinho</option>
+                <option value="Donkey Kong">Donkey Kong</option>
+            </select>
+            <button id="btn-votar" type="submit">Votar</button>
+        </form>
+        <div class="erro"></div>
+        <section id="ranking">
+            <h3>Ranking</h3>
+            <ul id="listaRanking"></ul>
+        </section>
+    </section>
+    <footer>© Kaio — 17/11/2025</footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
