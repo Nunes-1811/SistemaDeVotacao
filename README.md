@@ -32,4 +32,17 @@ Este projeto faz um sistema de votação de personagens.
 * No GitHub Desktop:
 	No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório (https://github.com/nunes-1811/sistemadevotacao.git)
 
+## Melhorias Futuras
+* Visualização da Pagina
+* Interfarce
+
+## Aprendizado
+- Fazer um sistema de votação
+- Personalização de primeiro lugar
+
+## Autor
+Desenvolvido por Kaio César
+* Turma de Tecnologia em Informática para internet (Turno Matutino) – Senac DF
+
+
 
