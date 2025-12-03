@@ -1,4 +1,4 @@
-# SistemaDeVotacao
+# Sistema De Votação
 
 Este projeto faz um sistema de votação de personagens.
 
@@ -27,18 +27,26 @@ Este projeto faz um sistema de votação de personagens.
 * 2. Extraia a pasta
 * 3. Abra o arquivo index.html no navegador
 
+---
+
 ## Como Clonar
 * git clone https://github.com/nunes-1811/sistemadevotacao.git
 * No GitHub Desktop:
 	No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório (https://github.com/nunes-1811/sistemadevotacao.git)
 
+---
+
 ## Melhorias Futuras
 * Visualização da Pagina
 * Interfarce
 
+---
+
 ## Aprendizado
 - Fazer um sistema de votação
 - Personalização de primeiro lugar
+
+---
 
 ## Autor
 Desenvolvido por Kaio César
