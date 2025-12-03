@@ -38,7 +38,7 @@ Este projeto faz um sistema de votação de personagens.
 
 ## Melhorias Futuras
 * Visualização da Pagina
-* Interfarce
+* Interfarce dos botões
 
 ---
 
